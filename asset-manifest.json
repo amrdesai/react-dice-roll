@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dice-roll/static/css/main.12be30d4.chunk.css",
+    "main.js": "/react-dice-roll/static/js/main.9740e69d.chunk.js",
+    "main.js.map": "/react-dice-roll/static/js/main.9740e69d.chunk.js.map",
+    "runtime-main.js": "/react-dice-roll/static/js/runtime-main.01ce62a6.js",
+    "runtime-main.js.map": "/react-dice-roll/static/js/runtime-main.01ce62a6.js.map",
+    "static/js/2.640f7b8d.chunk.js": "/react-dice-roll/static/js/2.640f7b8d.chunk.js",
+    "static/js/2.640f7b8d.chunk.js.map": "/react-dice-roll/static/js/2.640f7b8d.chunk.js.map",
+    "index.html": "/react-dice-roll/index.html",
+    "precache-manifest.731f6ad32be0ea5a84d358ee09a13b6a.js": "/react-dice-roll/precache-manifest.731f6ad32be0ea5a84d358ee09a13b6a.js",
+    "service-worker.js": "/react-dice-roll/service-worker.js",
+    "static/css/main.12be30d4.chunk.css.map": "/react-dice-roll/static/css/main.12be30d4.chunk.css.map",
+    "static/js/2.640f7b8d.chunk.js.LICENSE.txt": "/react-dice-roll/static/js/2.640f7b8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01ce62a6.js",
+    "static/js/2.640f7b8d.chunk.js",
+    "static/css/main.12be30d4.chunk.css",
+    "static/js/main.9740e69d.chunk.js"
+  ]
+}
