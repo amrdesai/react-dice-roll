@@ -2,7 +2,7 @@
 Rolls the dice and generates new numbers
  
 ### This project was built using React JS
-[Visit Page]( https://minm333.github.io/react-dice-roll/)
+## [View Page]( https://minm333.github.io/react-dice-roll/)
 
 
 ## About running this build:
